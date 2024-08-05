@@ -7,5 +7,5 @@ Building a Weather app with JavaScript is an excellent project for beginners. It
 
 
 # check out live 
-Web Url: https://avinash201199.github.io/weather-app/
+Web Url: https://santhini13.github.io/WeatherApp/
 
